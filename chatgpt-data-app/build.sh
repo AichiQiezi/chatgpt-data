@@ -1,0 +1,1 @@
+docker build -f ./Dockerfile -t qz/chatgpt-data-app:2.0 .
